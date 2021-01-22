@@ -8,3 +8,6 @@ To reach this purpose, you need give a new format line in the simulation file. T
 
 	The first 4 columns are same as the original PLINK, and the rest columns are the penetrances of AA, Aa and aa,
 	respectively.
+	
+Note: The modification can not ensure the correctness of the other functions of the original PLINK, except for the modification.
+      The 'Makefile' was modified, you may re-make it by yourself.
